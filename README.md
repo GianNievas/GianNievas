@@ -17,9 +17,9 @@ Hola! Soy Gianfranco, apasionado por el desarrollo de sitios web y creación de 
 
 <h3> Mis Proyectos:</h3>
 
-#### Shine : 
+#### Shine PF : 
 [Link al repositorio](https://github.com/VictorFalconi/E-Commerce-Clothing)<br>
-[Link al proyecto](e-commerce-clothing-three.vercel.app)
+
 
 
 #### Food Api : 
